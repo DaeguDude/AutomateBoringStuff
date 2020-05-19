@@ -14,7 +14,7 @@ def c():
   print('c() returns')
   
 def d():
-  print('d() starts')
+  print('d() starts')f
   print('d() returns')
   
-a()
+a()f
